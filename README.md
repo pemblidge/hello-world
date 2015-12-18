@@ -1,5 +1,4 @@
 # hello-world
-gittin into github
 
 This is an edited readme. 
   I like how it looks!
